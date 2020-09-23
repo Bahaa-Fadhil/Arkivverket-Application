@@ -27,8 +27,8 @@ If you have a problem staring the project, make sure that you are using node ver
 - GitHub repository: https://github.com/Bahaa-Fadhil/Arkivverket-Application
 
 ## Data Sources
-- // Digital arkivet endpoint: https://media.digitalarkivet.no/api/v1/db/browse?tags%5B%5D=373
-- // Proxy to enable cross-origin requests:  https://cors-anywhere.herokuapp.com/
+-  Digital arkivet endpoint: https://media.digitalarkivet.no/api/v1/db/browse?tags%5B%5D=373
+-  Proxy to enable cross-origin requests:  https://cors-anywhere.herokuapp.com/
 
 ## Author
 Bahaa Al-Bayati <<www.bahaa.no>>
