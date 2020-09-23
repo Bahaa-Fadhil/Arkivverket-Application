@@ -1,0 +1,28 @@
+
+<div class='header'>
+    <H2>Arkivverkets Vårslipp 2020</H2> <!--Table title-->
+</div>
+<div class="text-center">
+    <section id="items">
+        <table class="table table-sortable">
+            <thead>
+                <tr> <!--Table attributes-->
+                    <th scope="col">Source ID </th>
+                    <th scope="col" class="desc">Tittel </th>
+                    <th scope="col">Beskrivelse </th>
+                    <th scope="col">Startår </th>
+                    <th scope="col">Sluttår </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr> <!--Table attribute value-->
+                    <th scope="row">{{ data.Source_id }}</th>
+                    <td>{{ source.title }}</td>
+                    <td>{{ source.Description }}</td>
+                    <td>{{ source.StartYear }}</td>
+                    <td>{{ source.EndYear }}</td>
+                </tr>
+            </tbody>
+        </table>
+    </section>
+</div>

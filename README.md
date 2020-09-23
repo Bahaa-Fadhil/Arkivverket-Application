@@ -1,6 +1,37 @@
 # Arkivverket
+Application task is to shows the content of the National Archives' Spring Release 2020 by retrieving the relevant sources from the Digital Archive's media API!
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.0.
+
+## Application requires
+The application requires these dependencies to be installed
+- Node
+- Npm
+## Getting Started
+### Clone the repostory
+$ git clone
+### Navigate to the repository
+$ cd Arkivverket
+### Install dependencies
+$ npm install
+### Run app
+Then you are up and running and may start the project with:
+$ Ng serve --open
+
+Application will open on your browser at http://localhost:4200/ 
+
+### Troubleshooting
+If you have a problem staring the project, make sure that you are using node version 12.18.3 or later.
+
+## Git
+- GitHub repository: https://github.com/Bahaa-Fadhil/Arkivverket-Application
+
+## Data Sources
+- // Digital arkivet endpoint: https://media.digitalarkivet.no/api/v1/db/browse?tags%5B%5D=373
+- // Proxy to enable cross-origin requests:  https://cors-anywhere.herokuapp.com/
+
+## Author
+Bahaa Al-Bayati <<www.bahaa.no>>
 
 ## Development server
 
